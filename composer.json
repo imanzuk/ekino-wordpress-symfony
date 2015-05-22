@@ -1,0 +1,20 @@
+{
+    "name": "imanzuk/ekino-wordpress-symfony",
+    "description": "This is the Ekino Wordpress plugin to interact with Symfony.",
+    "type": "wordpress-plugin",
+    "homepage": "https://github.com/imanzuk/ekino-wordpress-symfony",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Ekino",
+            "homepage": "http://www.ekino.com"
+        },
+        {
+            "name": "István Manzuk",
+            "email": "istvan.manzuk@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2"
+    }
+}
